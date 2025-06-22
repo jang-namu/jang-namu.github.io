@@ -14,3 +14,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## Local Test
+```
+bundle install
+bundle exec jekyll serve
+```
