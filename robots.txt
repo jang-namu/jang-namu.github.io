@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jang-namu.github.io/sitemap.xml

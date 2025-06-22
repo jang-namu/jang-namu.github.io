@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "namu's tech blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "jang-namu"
-description              : "장철희(나무) 기술 블로그입니다."
+name                     : "장철희"
+description              : "개발 경험과 기술 지식을 공유하는 공간입니다"
 url                      : "https://jang-namu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,9 +99,10 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Jang Chulhee" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://github.com/jang-namu"
 
 # Analytics
 analytics:
