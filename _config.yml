@@ -21,7 +21,7 @@ title                    : "namu's tech blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jang-namu"
-description              : "An amazing website."
+description              : "장철희(나무) 기술 블로그입니다."
 url                      : "https://jang-namu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ social:
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-0C2L81PWM6
     anonymize_ip         : # true, false (default)
 
 
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jang Chulhee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "지식공유와 커뮤니티를 사랑하는 개발자"
   location         : "Seoul, Korea"
   email            :
   links:
