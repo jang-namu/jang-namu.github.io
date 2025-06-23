@@ -11,8 +11,7 @@
 
 ## 📚 최신 블로그 포스트
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Github 블로그 시작합니다.](https://jang-namu.github.io/github%20pages/first/) - 2025년 20월 22일<!-- BLOG-POST-LIST:END -->
 
 ## Local Test
 ```
